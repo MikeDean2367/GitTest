@@ -15,12 +15,20 @@
 
 ## Table of Contents
 
+- 📋[TODO](#todo)
 - 👀[Overview](#overview)
 - 📂[Data Preparation](#data)
 - 🔧[Installation](#installation)
 - 🚆[Model Training](#model-training)
 - 🧐[Evaluation](#evaluation)
 - 🚩[Citation](#citation)
+
+
+## 📋TODO
+
+- [ ] Train with LoRA
+- [ ] Refactor evaluation code
+- [ ] Upload model
 
 ## 👀Overview
 
