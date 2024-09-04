@@ -22,15 +22,15 @@
 - 🧐[Evaluation](#evaluation)
 - 🚩[Citation](#citation)
 
-## 👀 Overview
+## 👀Overview
 
 
-## 📂 Data Preparation
+## 📂Data Preparation
 
-## 🔧 Installation
+## 🔧Installation
 
-## 🚆 Model Training
+## 🚆Model Training
 
-## 🧐 Evaluation
+## 🧐Evaluation
 
-## 🚩 Citation
+## 🚩Citation
