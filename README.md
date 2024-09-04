@@ -17,8 +17,9 @@
 
 - 📋[TODO](#todo)
 - 👀[Overview](#overview)
-- 📂[Data Preparation](#data)
 - 🔧[Installation](#installation)
+- 🏃[Quick Start](#quick-start)
+- 📂[Data Preparation](#data-preparation)
 - 🚆[Model Training](#model-training)
 - 🧐[Evaluation](#evaluation)
 - 🚩[Citation](#citation)
@@ -29,15 +30,24 @@
 - [ ] Train with LoRA
 - [ ] Refactor evaluation code
 - [ ] Upload model
+- [ ] Code documentation
 
 ## 👀Overview
+
+## 🔧Installation
+
+## 🏃Quick Start
 
 
 ## 📂Data Preparation
 
-## 🔧Installation
+### Training Data Format
+
+### Evaluation Data Format
+
 
 ## 🚆Model Training
+
 
 ## 🧐Evaluation
 
